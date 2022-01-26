@@ -7,9 +7,5 @@ function getData(username){
 }
 
 
-//function dataThings(data){
-    //console.log(data);
-//}
-
 module.exports = { getData }
 
